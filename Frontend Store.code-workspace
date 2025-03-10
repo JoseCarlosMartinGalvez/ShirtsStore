@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Frontend Store",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Frontend Store"
+	}
+}
